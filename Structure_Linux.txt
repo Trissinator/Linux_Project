@@ -4,11 +4,10 @@
 	1.3 What is GNU
 	1.4 What is Linux
 2. Linux
-	2.1 the Kernel
-	2.2 Filesystem
-	2.3 Shell
-	2.4 Package management
-	2.5 Desktop environments
-	2.6 Window managers
-	2.7 DE vs WM
+	Begriffserklärungen
+	Shells
+	Package management
+	Desktop environments
+	Window managers
+	DE vs WM
 
